@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jonclerc Shop</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="anti_age_gemey_maybelline_item">Anti-âge Gemey Maybelline</string>
+    <string name="blush_nocibe_item">Fard à joues Nocibé</string>
+    <string name="eyeliner_sephora_item">Eyeliner Sephora</string>
+    <string name="foundation_bourgeois_item">Fond de teint Bourgeois</string>
+    <string name="lipstick_chanel_item">Rouge à lèvre rouge Chanel</string>
+    <string name="mascara_loreal_item">Mascara L\'Oréal</string>
+    <string name="naked1_item">Naked 1 </string>
+    <string name="naked2_item">Naked 2</string>
+    <string name="polish_OPI_pink_item">OPI rouge</string>
+    <string name="polish_OPI_red_item">OPI rose</string>
+    <string name="title_activity_home">Boutique Jonclerc</string>
+    <string name="title_activity_inventory">Inventaire</string>
+    <string name="title_activity_shop">Boutique</string>
+    <string name="next_day">Suivant</string>
+    <string name="day">Jour</string>
+    <string name="cant_use_outdated_item">Vous ne pouvez pas utiliser cet item, la date est dépassée</string>
+    <string name="use_item">Vous avez utilisé votre item</string>
+    <string name="cant_buy_outdated_item">Vous ne pouvez pas acheter cet item, la date est dépassée</string>
+    <string name="item_available_in_inventory">Cet item est maintenant disponible dans votre inventaire</string>
+    <string name="not_enough_money_to_buy_item">Vous n\'avez pas assez d\'argent pour acheter cet item</string>
+    <string name="outdated">Dépassé</string>
+</resources>

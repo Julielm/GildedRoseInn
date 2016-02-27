@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Ressources qui permettent de définir toutes les chaines de caractères pour ensuite les traduire dans différentes langues
+     Ici l'application a été traduite en anglais (langue par défaut) et français.
+    -->
+    <string name="app_name">Jonclerc Shop</string>
+    <string name="title_activity_home">Jonclerc Shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shop">Shop</string>
+    <string name="title_activity_inventory">Inventory</string>
+
+    <string name="lipstick_chanel_item">Red lipstick Chanel</string>
+    <string name="blush_nocibe_item">Blush Nocibé</string>
+    <string name="naked1_item">Naked 1</string>
+    <string name="naked2_item">Naked 2</string>
+    <string name="mascara_loreal_item">Mascara L\'Oréal</string>
+    <string name="polish_OPI_red_item">OPI red</string>
+    <string name="polish_OPI_pink_item">OPI pink</string>
+    <string name="eyeliner_sephora_item">Eyeliner Sephora</string>
+    <string name="foundation_bourgeois_item">Foundation Bourgeois</string>
+    <string name="anti_age_gemey_maybelline_item">Anti age Gemey Maybelline</string>
+    <string name="day">Day</string>
+    <string name="next_day">Next</string>
+
+    <string name="cant_use_outdated_item">You can\'t use this item, it\'s outdated</string>
+    <string name="use_item">You\'ve used your item</string>
+    <string name="cant_buy_outdated_item">You can\'t buy this item, it\'s outdated</string>
+    <string name="item_available_in_inventory">This item is now available in your inventory</string>
+    <string name="not_enough_money_to_buy_item">You don\'t have enough money to buy this item</string>
+    <string name="outdated">Outdated</string>
+</resources>
